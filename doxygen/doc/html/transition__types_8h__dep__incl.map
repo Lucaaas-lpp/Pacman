@@ -1,0 +1,11 @@
+<map id="mingl/include/mingl/transition/transition_types.h" name="mingl/include/mingl/transition/transition_types.h">
+<area shape="rect" id="node1" title="Définit quelques types pour les transitions." alt="" coords="454,5,609,61"/>
+<area shape="rect" id="node2" href="$transition__contract_8h.html" title="Création de la transition." alt="" coords="454,109,609,165"/>
+<area shape="rect" id="node3" href="$transition_8h.html" title="Definition d&#39;une transition." alt="" coords="351,213,517,255"/>
+<area shape="rect" id="node9" href="$transition__contract_8cpp.html" title="Création de la transition." alt="" coords="541,213,716,255"/>
+<area shape="rect" id="node4" href="$transition__engine_8h.html" title="Gestionnaire de transition de minGL." alt="" coords="269,303,423,359"/>
+<area shape="rect" id="node8" href="$transition_8cpp.html" title=" " alt="" coords="448,310,596,351"/>
+<area shape="rect" id="node5" href="$mingl_2examples_205-_transition_2main_8cpp.html" title=" " alt="" coords="5,407,220,448"/>
+<area shape="rect" id="node6" href="$mingl_2examples_209-_custom_transitionable_2main_8cpp.html" title=" " alt="" coords="245,407,447,448"/>
+<area shape="rect" id="node7" href="$transition__engine_8cpp.html" title=" " alt="" coords="472,407,639,448"/>
+</map>

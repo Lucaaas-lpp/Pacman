@@ -1,0 +1,5 @@
+<map id="joueurDirection" name="joueurDirection">
+<area shape="rect" id="node1" title="Permet de modifie la direction que garde le routeur en fonction du passage du joueur." alt="" coords="256,5,379,32"/>
+<area shape="rect" id="node2" href="$jeu_8cpp.html#a10708ad1a87784984b67c06d64bb68df" title="Permet de lancer le mode Aventure." alt="" coords="108,5,208,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,60,32"/>
+</map>

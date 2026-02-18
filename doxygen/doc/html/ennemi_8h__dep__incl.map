@@ -1,0 +1,5 @@
+<map id="Jeu_Luma/ennemi.h" name="Jeu_Luma/ennemi.h">
+<area shape="rect" id="node1" title="Permet d&#39;initilisé les ennemis et leurs déplacement." alt="" coords="99,5,250,32"/>
+<area shape="rect" id="node2" href="$ennemi_8cpp.html" title=" " alt="" coords="5,80,171,107"/>
+<area shape="rect" id="node3" href="$jeu_8cpp.html" title=" " alt="" coords="195,80,331,107"/>
+</map>

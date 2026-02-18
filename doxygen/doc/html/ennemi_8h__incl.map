@@ -1,0 +1,6 @@
+<map id="Jeu_Luma/ennemi.h" name="Jeu_Luma/ennemi.h">
+<area shape="rect" id="node1" title="Permet d&#39;initilisé les ennemis et leurs déplacement." alt="" coords="31,5,181,32"/>
+<area shape="rect" id="node2" href="$type_8h.html" title="Definition permet de définir les structure des joueurs et fantomes." alt="" coords="5,80,68,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="42,155,101,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="144,80,207,107"/>
+</map>

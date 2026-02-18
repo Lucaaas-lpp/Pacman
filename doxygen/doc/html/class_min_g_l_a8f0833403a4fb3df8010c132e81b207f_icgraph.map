@@ -1,0 +1,11 @@
+<map id="MinGL::isPressed" name="MinGL::isPressed">
+<area shape="rect" id="node1" title="Renvoie l&#39;état d&#39;une touche du clavier (pressée ou non)" alt="" coords="449,81,583,108"/>
+<area shape="rect" id="node2" href="$jeu_8cpp.html#a70f81487e5c2c3c9cc16c85511f46937" title=" " alt="" coords="273,5,384,32"/>
+<area shape="rect" id="node5" href="$jeu_8cpp.html#a8f2b227ce97492e790cbd755b7d26b0f" title=" " alt="" coords="256,56,401,83"/>
+<area shape="rect" id="node7" href="$mingl_2examples_203-_clavier_2main_8cpp.html#a3b1be47d68f5800c6bfbb2cc3764c151" title=" " alt="" coords="295,107,362,133"/>
+<area shape="rect" id="node9" href="$mingl_2examples_207-_audio_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="301,157,356,184"/>
+<area shape="rect" id="node3" href="$jeu_8cpp.html#a10708ad1a87784984b67c06d64bb68df" title="Permet de lancer le mode Aventure." alt="" coords="108,5,208,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node6" href="$jeu_8cpp.html#abe4c86872fbb0aa0e94ce779d241fc7e" title="Permet de lancer le mode de jeu Janus." alt="" coords="119,56,197,83"/>
+<area shape="rect" id="node8" href="$mingl_2examples_203-_clavier_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="131,107,185,133"/>
+</map>

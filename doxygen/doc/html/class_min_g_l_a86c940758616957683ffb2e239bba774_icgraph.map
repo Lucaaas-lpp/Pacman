@@ -1,0 +1,8 @@
+<map id="MinGL::clearScreen" name="MinGL::clearScreen">
+<area shape="rect" id="node1" title="Efface l&#39;écran avec la couleur de fond spécifiée." alt="" coords="447,56,593,83"/>
+<area shape="rect" id="node2" href="$class_min_g_l.html#a5962a0a0ced7879bc0cc65e267e8d7fc" title="Initialise minGL et ouvre la fenêtre." alt="" coords="256,31,399,57"/>
+<area shape="rect" id="node3" href="$jeu_8cpp.html#a10708ad1a87784984b67c06d64bb68df" title="Permet de lancer le mode Aventure." alt="" coords="108,56,208,83"/>
+<area shape="rect" id="node5" href="$jeu_8cpp.html#abe4c86872fbb0aa0e94ce779d241fc7e" title="Permet de lancer le mode de jeu Janus." alt="" coords="119,5,197,32"/>
+<area shape="rect" id="node6" href="$mingl_2examples_200-_boilerplate_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="131,119,185,145"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,31,60,57"/>
+</map>

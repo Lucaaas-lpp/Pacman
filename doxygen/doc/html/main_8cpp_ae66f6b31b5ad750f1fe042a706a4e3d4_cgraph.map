@@ -1,0 +1,36 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,572,60,599"/>
+<area shape="rect" id="node2" href="$jeu_8cpp.html#a10708ad1a87784984b67c06d64bb68df" title="Permet de lancer le mode Aventure." alt="" coords="108,753,208,780"/>
+<area shape="rect" id="node28" href="$jeu_8cpp.html#abe4c86872fbb0aa0e94ce779d241fc7e" title="Permet de lancer le mode de jeu Janus." alt="" coords="119,361,197,388"/>
+<area shape="rect" id="node3" href="$jeu_8cpp.html#a0d50079af3680ef85463dffe0a81910b" title=" " alt="" coords="297,1007,404,1033"/>
+<area shape="rect" id="node4" href="$jeu_8cpp.html#a70f81487e5c2c3c9cc16c85511f46937" title=" " alt="" coords="295,652,406,679"/>
+<area shape="rect" id="node6" href="$routeur_8cpp.html#a56f975f91b9688fc984f479a4f177d2a" title="Permet de lire l&#39;information dans le routeur pour suivre le joueur." alt="" coords="287,804,415,831"/>
+<area shape="rect" id="node7" href="$ennemi_8cpp.html#a40e0db8fca27745ab85702861259ca5a" title=" " alt="" coords="257,855,444,881"/>
+<area shape="rect" id="node8" href="$classns_event_1_1_event_manager.html#adbc5ced9a9435f61f58436ff613632b4" title="Vide la queue." alt="" coords="263,383,439,425"/>
+<area shape="rect" id="node9" href="$class_min_g_l.html#a86c940758616957683ffb2e239bba774" title="Efface l&#39;écran avec la couleur de fond spécifiée." alt="" coords="505,592,652,619"/>
+<area shape="rect" id="node10" href="$class_min_g_l.html#a489922f0bdde2e38698adddaf57f6eda" title="Préviens minGL que la frame est terminée." alt="" coords="277,449,424,476"/>
+<area shape="rect" id="node11" href="$class_min_g_l.html#ab558253439905930836ab4910a7ae253" title="Récupère le gestionnaire d&#39;évènements minGL." alt="" coords="257,500,444,527"/>
+<area shape="rect" id="node12" href="$class_min_g_l.html#a17c7718b9e966c8147cd56483dcf4e8d" title="Initialise la bibliothèque freeglut." alt="" coords="291,551,410,577"/>
+<area shape="rect" id="node13" href="$class_min_g_l.html#a5962a0a0ced7879bc0cc65e267e8d7fc" title="Initialise minGL et ouvre la fenêtre." alt="" coords="279,753,422,780"/>
+<area shape="rect" id="node18" href="$parametre_8cpp.html#afd9ec6a8a8bca7c4dbf41bdc665a74de" title="initParams1 : touche du joueur1" alt="" coords="301,601,400,628"/>
+<area shape="rect" id="node19" href="$class_min_g_l.html#a05a0da9d0729e9c7dbd1121b0956866d" title="Retourne si la fenêtre est ouverte." alt="" coords="293,332,409,359"/>
+<area shape="rect" id="node20" href="$routeur_8cpp.html#a30a7601b6bcec32440f298b8dcc44e26" title="Permet de modifie la direction que garde le routeur en fonction du passage du joueur." alt="" coords="289,956,412,983"/>
+<area shape="rect" id="node21" href="$ennemi_8cpp.html#ac2affbbbfcf238e8197f5bd1b746e624" title=" " alt="" coords="267,1057,434,1084"/>
+<area shape="rect" id="node22" href="$jeu_8cpp.html#a219d587c744e3f56d1906ccd50d76d5b" title=" " alt="" coords="288,1108,413,1135"/>
+<area shape="rect" id="node23" href="$ennemi_8cpp.html#a4f790a8dea62308e583ba9a3aff2345a" title=" " alt="" coords="256,905,445,932"/>
+<area shape="rect" id="node26" href="$joueur_8cpp.html#a6b5eaaa02432ddb23338da390ec52632" title=" " alt="" coords="279,1159,422,1185"/>
+<area shape="rect" id="node27" href="$routeur_8cpp.html#a5e9f7b19b28f8dec9ab7843b33649dd7" title=" " alt="" coords="258,1209,443,1236"/>
+<area shape="rect" id="node5" href="$class_min_g_l.html#a8f0833403a4fb3df8010c132e81b207f" title="Renvoie l&#39;état d&#39;une touche du clavier (pressée ou non)" alt="" coords="512,335,645,361"/>
+<area shape="rect" id="node14" href="$classns_graphics_1_1_r_g_b_acolor.html#a76299c507a113e326c01fe4b0bca2b1e" title="Récupère le taux de transparence." alt="" coords="493,643,664,685"/>
+<area shape="rect" id="node15" href="$classns_graphics_1_1_r_g_b_acolor.html#a9ac0893426cce20a177d6ea7af1d7129" title="Récupère le taux de bleu." alt="" coords="493,709,664,750"/>
+<area shape="rect" id="node16" href="$classns_graphics_1_1_r_g_b_acolor.html#a5f2dc1550c34149fc5cbc1629b54d7e4" title="Récupère le taux de vert." alt="" coords="493,774,664,815"/>
+<area shape="rect" id="node17" href="$classns_graphics_1_1_r_g_b_acolor.html#a55e40085f904b696a0bc63aed6258b79" title="Récupère le taux de rouge." alt="" coords="493,839,664,881"/>
+<area shape="rect" id="node24" href="$ennemi_8cpp.html#a1d85395a27e7fb4da6dae562fad3cb3e" title=" " alt="" coords="502,905,655,932"/>
+<area shape="rect" id="node25" href="$ennemi_8cpp.html#a6137e32ad43e815ef233f69c23eb9127" title=" " alt="" coords="511,956,647,983"/>
+<area shape="rect" id="node29" href="$jeu_8cpp.html#a2bc137143d4d099f88b068d277b0b314" title=" " alt="" coords="280,129,421,156"/>
+<area shape="rect" id="node30" href="$jeu_8cpp.html#a8f2b227ce97492e790cbd755b7d26b0f" title=" " alt="" coords="278,79,423,105"/>
+<area shape="rect" id="node32" href="$jeu_8cpp.html#a2ac153d15d7d675c4380e282c2456f5a" title=" " alt="" coords="712,53,848,80"/>
+<area shape="rect" id="node33" href="$parametre_8cpp.html#a9655b94c4241c7f4b10893f5ff12fd2f" title="initParams2 : touche du joueur2" alt="" coords="301,180,400,207"/>
+<area shape="rect" id="node34" href="$joueur_8cpp.html#a55f11ef4f90755ad6731a79ca4bd0521" title="Permet de modifier les informations de score, de mode et de vie." alt="" coords="271,231,431,257"/>
+<area shape="rect" id="node31" href="$jeu_8cpp.html#acab7568cc78aba8cedc53b8d978a61a8" title=" " alt="" coords="552,79,605,105"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="mingl/include/mingl/transition/transition_engine.h" name="mingl/include/mingl/transition/transition_engine.h">
+<area shape="rect" id="node1" title="Gestionnaire de transition de minGL." alt="" coords="46,5,201,61"/>
+<area shape="rect" id="node2" title=" " alt="" coords="82,333,149,360"/>
+<area shape="rect" id="node3" title=" " alt="" coords="44,109,121,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="145,109,188,136"/>
+<area shape="rect" id="node5" href="$transition_8h.html" title="Definition d&#39;une transition." alt="" coords="212,109,308,136"/>
+<area shape="rect" id="node6" href="$transition__contract_8h.html" title="Création de la transition." alt="" coords="182,184,338,211"/>
+<area shape="rect" id="node7" title=" " alt="" coords="44,259,131,285"/>
+<area shape="rect" id="node8" title=" " alt="" coords="351,333,414,360"/>
+<area shape="rect" id="node9" href="$itransitionable_8h.html" title="Interface pour objet &quot;transitionable&quot;." alt="" coords="369,259,497,285"/>
+<area shape="rect" id="node10" href="$transition__types_8h.html" title="Définit quelques types pour les transitions." alt="" coords="156,259,294,285"/>
+</map>
