@@ -1,6 +1,0 @@
-<map id="Jeu_Luma/joueur.h" name="Jeu_Luma/joueur.h">
-<area shape="rect" id="node1" title="Definition permet de modifie le joueur, son état et ses déplacement." alt="" coords="9,5,150,32"/>
-<area shape="rect" id="node2" href="$type_8h.html" title="Definition permet de définir les structure des joueurs et fantomes." alt="" coords="5,80,68,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="92,80,155,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="7,155,66,181"/>
-</map>

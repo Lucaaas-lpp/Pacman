@@ -1,7 +1,0 @@
-<map id="MinGL::finishFrame" name="MinGL::finishFrame">
-<area shape="rect" id="node1" title="Préviens minGL que la frame est terminée." alt="" coords="256,56,403,83"/>
-<area shape="rect" id="node2" href="$jeu_8cpp.html#a10708ad1a87784984b67c06d64bb68df" title="Permet de lancer le mode Aventure." alt="" coords="108,5,208,32"/>
-<area shape="rect" id="node4" href="$jeu_8cpp.html#abe4c86872fbb0aa0e94ce779d241fc7e" title="Permet de lancer le mode de jeu Janus." alt="" coords="119,56,197,83"/>
-<area shape="rect" id="node5" href="$mingl_2examples_200-_boilerplate_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="131,107,185,133"/>
-<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,31,60,57"/>
-</map>

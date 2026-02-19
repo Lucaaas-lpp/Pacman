@@ -1,7 +1,0 @@
-<map id="Jeu_Luma/parametre.h" name="Jeu_Luma/parametre.h">
-<area shape="rect" id="node1" title="Definition permet de definir les touches." alt="" coords="87,5,257,32"/>
-<area shape="rect" id="node2" href="$jeu_8cpp.html" title=" " alt="" coords="5,155,141,181"/>
-<area shape="rect" id="node3" href="$jeu_8h.html" title="Definition permet d&#39;utiliser tout les éléments du jeu et les fonctionnalitées." alt="" coords="111,80,233,107"/>
-<area shape="rect" id="node5" href="$parametre_8cpp.html" title=" " alt="" coords="257,80,441,107"/>
-<area shape="rect" id="node4" href="$main_8cpp.html" title=" " alt="" coords="165,155,248,181"/>
-</map>
